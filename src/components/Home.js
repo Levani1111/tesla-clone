@@ -5,7 +5,61 @@ import Section from './Section'
 function Home() {
     return (
         <Container>
-         <Section />
+         <Section 
+           // passing props
+           title="Model S"
+           description="Order Online for Touchless Delivery"
+           backgroundImg="model-s.jpg"
+           leftBtnText="Custom order"
+           rightBtnText="Existing inventory"
+         />
+         <Section 
+           // passing props
+           title="Model Y"
+           description="Order Online for Touchless Delivery"
+           backgroundImg="model-y.jpg"
+           leftBtnText="Custom order"
+           rightBtnText="Existing inventory"
+         />
+         <Section 
+           // passing props
+           title="Model 3"
+           description="Order Online for Touchless Delivery"
+           backgroundImg="model-3.jpg"
+           leftBtnText="Custom order"
+           rightBtnText="Existing inventory"
+         />
+          <Section 
+           // passing props
+           title="Model X"
+           description="Order Online for Touchless Delivery"
+           backgroundImg="model-x.jpg"
+           leftBtnText="Custom order"
+           rightBtnText="Existing inventory"
+         />
+          <Section 
+           // passing props
+           title="Lowest Cost Solar Panels in America"
+           description="Monet-Back Guarantee"
+           backgroundImg="solar-panel.jpg"
+           leftBtnText="Order Now"
+           rightBtnText="Learn More"
+         />
+         <Section 
+           // passing props
+           title="Solar for New Roofs"
+           description="Solar Roof Cost Less Than a New Roof Plius Solar Panels"
+           backgroundImg="solar-roof.jpg"
+           leftBtnText="Order Now"
+           rightBtnText="Learn More"
+         />
+         <Section 
+           // passing props
+           title="Accessories"
+           description=""
+           backgroundImg="accessories.jpg"
+           leftBtnText="Shop Now"
+         />
         </Container>
     )
 }
