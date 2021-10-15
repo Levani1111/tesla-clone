@@ -43,7 +43,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Styled components
+- Styled components - https://styled-components.com/
 - React Reveal - https://www.react-reveal.com/docs/
-- Material UI
-- React Redux
+- Material UI - https://v4.mui.com/
+- React Redux - https://react-redux.js.org/
