@@ -11,6 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React Reveal](https://www.react-reveal.com/docs/)
 - [Material UI](https://v4.mui.com/)
 
+### deployment
+
+netlify.com - https://tesla-clone-fornt-page-ui.netlify.app/
+
 <hr>
 
 ##### Created by Levani Papashvili @2021
